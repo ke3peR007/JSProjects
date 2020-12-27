@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+}
+
+button {
+    margin: 2%;
+}
+
+.content {
+    margin-top: 30%;
+    margin-bottom: 50%;
+}
+
+.count {
+    
+    font-weight: bold;
+} 

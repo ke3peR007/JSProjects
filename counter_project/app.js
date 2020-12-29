@@ -5,7 +5,7 @@ document.querySelector(".lower").addEventListener("click", () => {
     document.querySelector(".count").innerHTML = counter;
     if (counter < 0) {
         document.querySelector("#counter").style.color = "red";
-    }
+    } 
     if (counter === 0) {
         document.querySelector("#counter").style.color = "black";
     }

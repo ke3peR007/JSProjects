@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+}
+
+
+.images {
+    margin-left: 30%;
+    margin-top: 16%;
+    width: 50rem;
+    height: 50rem;
+    border: 10px solid #e981a4;
+    border-radius: 5%;
+}
+
+button {
+    margin-top: 3%;
+}
+
+.img {
+    text-align:center;
+}
